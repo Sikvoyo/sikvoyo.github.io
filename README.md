@@ -1,1 +1,3 @@
-# sikvoyo.github.io
+# My website...
+
+It's v.1.0 and while I am learning webdevelopment I will update it.
