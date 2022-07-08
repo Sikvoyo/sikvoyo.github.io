@@ -1,0 +1,49 @@
+{
+   "icons": [
+      {
+         "image": "yt.png",
+         "link": "https://www.youtube.com/c/Sikvoyo",
+         "name": "YouTube"
+      },
+      {
+         "image": "twitter.png",
+         "link": "https://www.twitter.com/HoyyaSenpai",
+         "name": "Twitter"
+      },
+      {
+         "image": "discord.png",
+         "link": "",
+         "name": "Discord"
+      },
+      {
+         "image": "vk.png",
+         "link": "https://www.vk.com/sikvoyo",
+         "name": "VK"
+      },
+      {
+         "image": "git.png",
+         "link": "https://github.com/Sikvoyo",
+         "name": "GitHub"
+      },
+      {
+         "image": "steam.png",
+         "link": "https://steamcommunity.com/id/sikvoyo",
+         "name": "Steam"
+      },
+      {
+         "image": "ng.png",
+         "link": "https://sikvoyo.newgrounds.com",
+         "name": "Newgrounds"
+      },
+      {
+         "image": "reddit.png",
+         "link": "https://reddit.com/u/w3lcome_home_senpai",
+         "name": "Reddit"
+      },
+      {
+         "image": "spotify.png",
+         "link": "https://open.spotify.com/user/uf54ekf86axg4lvzivm1wedqr",
+         "name": "Spotify"
+      }
+   ]
+}

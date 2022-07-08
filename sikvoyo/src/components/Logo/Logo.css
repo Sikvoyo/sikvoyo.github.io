@@ -1,0 +1,28 @@
+.logoContainer
+{
+   height: 100%;
+   position: relative;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.logo {
+   width: 25vw;
+   height: auto;
+   min-width: 300px;
+   -webkit-user-drag: none;
+   user-select: none;
+   -moz-user-select: none;
+   pointer-events: none;
+   animation: rotation 40s infinite linear;
+}
+
+@keyframes rotation {
+   from {
+      transform: rotate(0deg);
+   }
+   to {
+      transform: rotate(-359deg);
+   }
+}
