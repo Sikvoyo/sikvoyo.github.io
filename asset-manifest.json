@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f23e6a3d.css",
+    "main.js": "/static/js/main.82df6d8f.js",
+    "static/js/787.b6752bf2.chunk.js": "/static/js/787.b6752bf2.chunk.js",
+    "static/media/sikvoyo.png": "/static/media/sikvoyo.3781bbc9e116831094d5.png",
+    "static/media/reddit.png": "/static/media/reddit.9487476bbaf4e725a9f9.png",
+    "static/media/spotify.png": "/static/media/spotify.ee42c506d6d0cadc88e1.png",
+    "static/media/git.png": "/static/media/git.225e2392985b1aaff1a4.png",
+    "static/media/steam.png": "/static/media/steam.8e16c420971cc5eb1d96.png",
+    "static/media/discord.png": "/static/media/discord.15439c932d2b207cb8a1.png",
+    "static/media/twitter.png": "/static/media/twitter.611b982c49bf34974a6f.png",
+    "static/media/vk.png": "/static/media/vk.070efbd0701d0f2529ae.png",
+    "index.html": "/index.html",
+    "main.f23e6a3d.css.map": "/static/css/main.f23e6a3d.css.map",
+    "main.82df6d8f.js.map": "/static/js/main.82df6d8f.js.map",
+    "787.b6752bf2.chunk.js.map": "/static/js/787.b6752bf2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f23e6a3d.css",
+    "static/js/main.82df6d8f.js"
+  ]
+}
