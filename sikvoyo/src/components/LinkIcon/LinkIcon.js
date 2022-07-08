@@ -9,12 +9,14 @@ const LinkIcon = (props) => {
    useEffect(() => {
       setName(name);
    }, [name])
+   console.log(props.angle, name);
    
    return(
       <>
          <div className="linkIcon">
             <a href={link}>
-               <img src={require(`../../img/icons/${image}`)} alt={linkName} />
+               <img src={require(`../../img/icons/${image}`)} alt={linkName} style={{transform: `rotate(${props.angle}deg) translateX(${350}px) rotate(-${props.angle}deg)`,
+                                                                                                }} />
             </a>
          </div>
       </>
