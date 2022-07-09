@@ -1,3 +1,0 @@
-# Sikvoyø
-
-My personal website!
