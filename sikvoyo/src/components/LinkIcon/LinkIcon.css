@@ -1,20 +1,63 @@
 a img {
-   width: 50px;
-   height: 50px;
-   position: absolute;
+   width: 75px;
+   height: 75px;
+   /* position: absolute;
    left: calc(50% - 25px);
-   top: calc(50% - 25px);
+   top: calc(50% - 25px); */
 }
+
+img {
+   transition: all 0.5s;
+   -webkit-user-drag: none;
+   user-select: none;
+   -moz-user-select: none;
+   pointer-events: none;
+   
+}
+
+a {
+   opacity: 0;
+   position: absolute;
+   left: calc(50% - 33px);
+   top: calc(50% - 33px);
+}
+
+.animateIcon {
+   animation: initialOpacityIcon 2s forwards ease-in-out;
+}
+
+@media only screen and (max-width: 900px) {
+   a img {
+      width: 50px;
+      height: 50px;
+   }
+   a {
+      position: absolute;
+      left: calc(50% - 25px);
+      top: calc(50% - 25px);
+   }
+}
+
 
 .rotate {
-   animation: Protation 40s infinite linear;
+   position: relative;
+   animation: Nrotation 40s infinite linear;
 }
 
-@keyframes Protation {
+@keyframes Nrotation {
    from {
-      transform: rotate(0deg);
+      transform: rotate(360deg);
    }
    to {
-      transform: rotate(359deg);
+      transform: rotate(0deg);
+   }
+}
+
+@keyframes initialOpacityIcon {
+   from {
+      opacity: 0;
+   }
+   to {
+      opacity: 1;
    }
 }

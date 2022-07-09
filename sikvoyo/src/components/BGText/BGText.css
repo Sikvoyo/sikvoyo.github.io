@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+#containerH1 {
+   width: 100vw;
+   height: 100vh;
+   position: fixed;
+   z-index: 0;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   animation: initialOpacityH1 2s forwards ease-in-out;
+}
+
+h1 {
+   font-family: Montserrat, sans-serif;
+   position: fixed;
+   z-index: -1;
+   font-size: 13vw;
+   opacity: 0.2;
+   color: #ae00ff;
+   text-justify: inter-word;
+   text-align: center;
+   line-height: 0.7em;
+}
+
+@keyframes initialOpacityH1 {
+   from {
+      opacity: 0;
+   }
+   to {
+      opacity: 1;
+   }
+}

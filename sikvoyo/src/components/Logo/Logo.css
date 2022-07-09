@@ -1,16 +1,18 @@
 .logoContainer
 {
    height: 100%;
-   position: relative;
+   /* position: relative;
+   z-index: 3; */
    display: flex;
    justify-content: center;
    align-items: center;
+   animation: initialScaleLogo 1s forwards ease-in-out;
 }
 
 .logo {
    width: 25vw;
    height: auto;
-   min-width: 300px;
+   min-width: 125px;
    -webkit-user-drag: none;
    user-select: none;
    -moz-user-select: none;
@@ -24,5 +26,14 @@
    }
    to {
       transform: rotate(-359deg);
+   }
+}
+
+@keyframes initialScaleLogo {
+   from {
+      transform: scale(0);
+   }
+   to {
+      transform: scale(1);
    }
 }
