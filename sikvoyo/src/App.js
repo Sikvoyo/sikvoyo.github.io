@@ -3,6 +3,7 @@ import Start from './components/Start/Start';
 import Logo from './components/Logo/Logo'
 import IconCircle from './components/IconCircle/IconCircle';
 import BGTest from './components/BGText/BGText.jsx';
+import AboutMe from './components/AboutMe/AboutMe';
 import { DEFAULT_BG_TEXT } from './consts';
 import './App.css';
 
@@ -17,6 +18,7 @@ function App() {
         <IconCircle hoverChange={setBGText}/>
         <Logo />
       </Start>
+      <AboutMe hoverChange={setBGText}/>
     </>
   );
 }

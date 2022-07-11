@@ -1,0 +1,84 @@
+{
+   "games": [
+      {
+         "name": "NieR: Automata",
+         "author": "PlatinumGames, Square Enix",
+         "year": "2017",
+         "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/524220/library_600x900_2x.jpg?t=1646911691",
+         "commentsEN": "A masterpiece.",
+         "commentsRU": "Шедевр."
+      },
+      {
+         "name": "Hollow Knight",
+         "author": "Team Cherry",
+         "year": "2017",
+         "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/library_600x900_2x.jpg?t=1568794877",
+         "commentsEN": "What an adventure! This game is sure very hard but its beauty, gameplay and lore make it one of my favorite games of all time",
+         "commentsRU": "Какое же это было приключение! Жёппа конечно горит, но красота, геймплей, лор этой игры делают ХК для меня одной из лучших игр"
+      },
+      {
+         "name": "Portal 2",
+         "author": "Valve",
+         "year": "2011",
+         "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/library_600x900_2x.jpg?t=1560370884",
+         "commentsEN": "The best game in my opinion. It literally doesn't have any flaws. It's perfect",
+         "commentsRU": "По моему мнению, лучшая игра. У неё ноль минусов. Она идеальная"
+      },
+      {
+         "name": "Deltarune",
+         "author": "Toby Fox",
+         "year": "2018",
+         "cover": "https://m.media-amazon.com/images/M/MV5BYTk0MDlhMTQtMTc0ZS00OWQyLTk2MDAtNTQ2ODVmYTQ5NjU3XkEyXkFqcGdeQXVyOTA1ODU0Mzc@._V1_.jpg",
+         "commentsEN": "This game is not out yet but I LOVE IT. It's much better than Undertale. It's funny, it's beautiful, it's fun!",
+         "commentsRU": "Игра ещё не вышла, но она уже мне нравится! Гораздо лучше Андертейла. Она смешная, красивая, весёлая!"
+      },
+      {
+         "name": "Geometry Dash",
+         "author": "RobTop",
+         "year": "2013",
+         "cover": "https://play-lh.googleusercontent.com/sq0hNhqNiuA6j0JW5nMOQCv_wJ6XBq1KpeMNkPN6TsGrrYNsaPrfZ-GiOkk1ap4SqBDA=w526-h296-rw",
+         "commentsEN": "Game of my childhood. Also the most addicting game",
+         "commentsRU": "Игра детства. Затягивает..."
+      },
+      {
+         "name": "Overwatch",
+         "author": "Blizzard Entertainment",
+         "year": "2016",
+         "cover": "https://upload.wikimedia.org/wikipedia/ru/3/33/Overwatch_Origins_Edition_PC_cover.jpg",
+         "commentsEN": "Right now people are making fun of OW but at some point everybody used to play it because of how polished and fun it was. I still play it sometime, my favorite online game",
+         "commentsRU": "Сейчас люди издеваются над этой игрой и хейтят её, но когда-то все в неё играли, ведь она так хорошо была сделана и была такой фановой. До сих пор в ней играю, моя любимая онлайн-игра"
+      },
+      {
+         "name": "Celeste",
+         "author": "Extremely OK Games",
+         "year": "2018",
+         "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/504230/library_600x900_2x.jpg?t=1567740774",
+         "commentsEN": "Maybe I'm trans?.. Anyway, amazing platformer. The best platformer actually. Hard yet forgiving",
+         "commentsRU": "Может, я транс?.. Короче, шикарный платформер. Лучший платформер, даже так скажу. Сложной, но прощающий"
+      },
+      {
+         "name": "Disco Elysium",
+         "author": "ZA/UM",
+         "year": "2019",
+         "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/632470/library_600x900_2x.jpg?t=1651764684",
+         "commentsEN": "Everybody should play it because of how good it is.",
+         "commentsRU": "Все должны попробовать Диско Элизиум, это шикарная игра"
+      },
+      {
+         "name": "Red Dead Redemption 2",
+         "author": "Rockstar",
+         "year": "2018",
+         "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/library_600x900_2x.jpg?t=1574472419",
+         "commentsEN": "I don't get it how Witcher 3 according to some people is exciting and epic but RDR2 is boring and slow. It's not boring!!! It's so cool! Best 20$ spent",
+         "commentsRU": "Не понимаю, как можно считать, что Дерьмак 3 бодрая и крутая, а РДР2 скучная и медленная. Да нихрена она не скучная!!! Она превосходная. Лучшие потраченные 20 долларов"
+      },
+      {
+         "name": "CrossCode",
+         "author": "Radical Fish Games",
+         "year": "2018",
+         "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/368340/library_600x900_2x.jpg?t=1631623489",
+         "commentsEN": "The most underrated game. Check. It. Out! NOW!",
+         "commentsRU": "Самая недооцеённая игра. Бегом! Её! Покупать! СЕЙЧАС!"
+      }
+   ]
+}

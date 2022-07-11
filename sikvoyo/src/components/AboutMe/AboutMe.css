@@ -1,0 +1,86 @@
+#aboutme
+{
+   /* height: 2000px; */
+   border-top: 20px solid #ae00ff;
+   display: flex;
+   align-items: center;
+   z-index: 3;
+   position: relative;
+   flex-direction: column;
+}
+
+#pfp
+{
+   margin: 50px;
+   margin-bottom: 0px;
+   width: 500px;
+   height: 500px;
+   border: 20px solid #ae00ff;
+   border-radius: 20px;
+}
+
+#hi
+{
+   font-size: 5rem;
+   text-align: center;
+   margin: 20px;
+}
+
+h2
+{
+   text-align: center;
+   width: 70%;
+   font-size: 1.5em;
+}
+
+.heart
+{
+   margin-top: 50px;
+   width: 10%;
+   min-width: 150px;
+   animation: Heartbeat 1s infinite;
+}
+
+@keyframes Heartbeat
+{
+   0%
+  {
+    transform: scale( .75 );
+  }
+  20%
+  {
+    transform: scale( 1 );
+  }
+  40%
+  {
+    transform: scale( .75 );
+  }
+  60%
+  {
+    transform: scale( 1 );
+  }
+  80%
+  {
+    transform: scale( .75 );
+  }
+  100%
+  {
+    transform: scale( .75 );
+  }
+}
+
+@media only screen and (max-width: 900px) {
+   h2
+{
+   text-align: center;
+   width: 80%;
+   font-size: 1em;
+}
+}
+
+.centerHeart
+{
+   width: 10%;
+   display: flex;
+   justify-content: center;
+}

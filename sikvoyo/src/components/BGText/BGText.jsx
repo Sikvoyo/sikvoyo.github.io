@@ -7,7 +7,7 @@ const BGTest = (props) => {
    return(
       <>
       <div id="containerH1">
-         <h1 className="unselectable">{text}</h1>
+         <h1 className="unselectable" id="bgtext">{text}</h1>
       </div>
       </>
    );

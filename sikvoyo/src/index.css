@@ -1,15 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
 :root {
   color-scheme: dark;
 }
 
+::selection {
+  color: rgb(255, 255, 255);
+  background: #ae00ff;
+}
+
 html {
   scrollbar-color: #ae00ff #000;
+  font-family: 'Montserrat';
 }
 
 body {
   margin: 0;
   width: 100%;
   height: 100%;
+  overflow-x: hidden;
 }
 
 code {
@@ -22,4 +31,9 @@ code {
    user-select: none;
    -moz-user-select: none;
    pointer-events: none;
+}
+
+.purple
+{
+  color: #ae00ff;
 }
