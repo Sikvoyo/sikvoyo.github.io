@@ -11,18 +11,29 @@
 
 #pfp
 {
+   z-index: 3;
+   position: relative;
    margin: 50px;
    margin-bottom: 0px;
-   width: 500px;
-   height: 500px;
+   max-width: 500px;
+   min-width: 250px;
+   min-width: 300px;
    border: 20px solid #ae00ff;
    border-radius: 20px;
 }
 
+#pfpcenter
+{
+   width: 50%;
+   display: flex;
+   justify-content: center;
+}
+
 #hi
 {
-   font-size: 5rem;
+   font-size: 4.5rem;
    text-align: center;
+   overflow-wrap: break-word;
    margin: 20px;
 }
 
@@ -36,6 +47,7 @@ h2
 .heart
 {
    margin-top: 50px;
+   margin-bottom: 100px;
    width: 10%;
    min-width: 150px;
    animation: Heartbeat 1s infinite;
