@@ -41,7 +41,7 @@ a {
 
 .rotate {
    position: relative;
-   animation: Nrotation 40s infinite linear;
+   animation: Nrotation 1s infinite linear;
 }
 
 @keyframes Nrotation {

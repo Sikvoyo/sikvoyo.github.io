@@ -1,12 +1,28 @@
 .logoContainer
 {
-   height: 100%;
+   height: 100vh;
    /* position: relative;
    z-index: 3; */
    display: flex;
    justify-content: center;
+   flex-wrap: wrap;
    align-items: center;
    animation: initialScaleLogo 1s forwards ease-in-out;
+}
+
+@media only screen and (max-width: 700px) {
+   .logoContainer {
+      height: 100vh;
+      /* position: relative;
+      z-index: 3; */
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      float: none;
+      margin: 0 auto;
+      align-items: center;
+      animation: initialScaleLogo 1s forwards ease-in-out;
+   }
 }
 
 .logo {
@@ -17,7 +33,7 @@
    user-select: none;
    -moz-user-select: none;
    pointer-events: none;
-   animation: rotation 40s infinite linear;
+   animation: rotation 1s infinite linear;
 }
 
 @keyframes rotation {
