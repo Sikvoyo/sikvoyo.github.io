@@ -33,7 +33,7 @@
    user-select: none;
    -moz-user-select: none;
    pointer-events: none;
-   animation: rotation 1s infinite linear;
+   animation: rotation 60s infinite linear;
 }
 
 @keyframes rotation {
